@@ -28,3 +28,5 @@ Sistema completo para gestão de banco de horas de funcionários.
 banco_de_horas/ │ ├── app.py ├── database/ ├── assets/ ├── backups/ ├── screens/
 
 
+
+![image](https://github.com/user-attachments/assets/442dbd81-670e-413c-be94-ae06dd18cb61)
