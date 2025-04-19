@@ -1,4 +1,4 @@
-# Sistema de Banco de Horas - Caio Vicente
+![image](https://github.com/user-attachments/assets/07c0a765-f0a0-4bb2-a0aa-f9e83778500c)# Sistema de Banco de Horas - Caio Vicente
 
 Sistema completo para gestão de banco de horas de funcionários.
 
@@ -26,3 +26,5 @@ Sistema completo para gestão de banco de horas de funcionários.
 
 ## Estrutura de Pastas
 banco_de_horas/ │ ├── app.py ├── database/ ├── assets/ ├── backups/ ├── screens/
+
+
