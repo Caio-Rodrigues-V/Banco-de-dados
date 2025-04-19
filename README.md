@@ -20,8 +20,9 @@ Sistema completo para gestão de banco de horas de funcionários.
 ## Como Rodar
 1. Clone este repositório
 2. Instale as dependências:
+  pip install -r requirements.txt
 
-3. Execute o `app.py`
+4. Execute o `app.py`
 
 ## Estrutura de Pastas
 banco_de_horas/ │ ├── app.py ├── database/ ├── assets/ ├── backups/ ├── screens/
